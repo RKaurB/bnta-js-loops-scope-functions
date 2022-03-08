@@ -21,3 +21,8 @@ for (item of shoppingList) {
     console.log(item.toUpperCase());
 }
 
+// Demonstrate problem re scope
+// ie. variable scope = scope/range of a variable
+// A variable's scope determines where it can be accessed or reassigned from, or even if it can be reassigned at all.
+// E.g. shoppingList is a global variable - can be used from anywhere else in the programme.
+// 
